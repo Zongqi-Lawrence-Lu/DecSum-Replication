@@ -42,6 +42,7 @@ Change the three scripts in `scripts` to match the env name.
 - **`scripts/`**: Contains shell scripts that runs training and inference.
 - **`sample_output/`**: Provides sample outputs and results from the model for reference.
 - **`requirements.txt`**: Lists all dependencies required to run the project.
+- **`Replication Report.pdf`**: Reports replication model performance and my reflections. 
 - **`README.md`**: This file.
 
 ## Data Preprocessing
