@@ -28,10 +28,10 @@ The DecSum pipeline consists of three main stages:
 Create and activate a conda environment:
 
 ```bash
-conda create -n decsum python=3.10
+conda create -n decsum python=3.11
 conda activate decsum
 python3 -m pip install -r requirements.txt
-python -m spacy download en_core_web_sm
+python3 -m spacy download en_core_web_sm
 ```
 Change the three scripts in `scripts` to match the env name.
 

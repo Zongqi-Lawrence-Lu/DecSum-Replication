@@ -1,0 +1,6 @@
+grad_accum: 1
+lr: 5.0e-05
+model_name: ~/Desktop/Research/Machine_Learning/Decsum_Project/replication/sample_output/prediction_model/longformer-model
+total_steps: 10092
+warmup_steps: 500
+weight_decay: 0
